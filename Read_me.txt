@@ -6,6 +6,7 @@ This was an old project of mine that I improved upon.
 Run the app by this command
 python macro_recorder.py
 
+
 Its Features Are 
 1. Recording macros by capturing the user's mouse or keyboard inputs during the recording time. 
 2. Play the Macros 
@@ -26,3 +27,4 @@ This allows you to assign any saved macro to play if an assigned hot key is pres
 You get to choose whatever background color you want and even have a simple RGB animated background. 
 Warning!!!
 The RGB background might change too fast causing flashing lights. 
+Video examples of this in this file
